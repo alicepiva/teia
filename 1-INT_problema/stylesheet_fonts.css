@@ -1,0 +1,36 @@
+p, h1{
+    font-family: 'Markazi Text';
+    font-style: normal;
+}
+
+h1 {
+font-size:36px;
+writing-mode: sideways-lr;
+position: fixed;
+top: 8%;
+}
+
+.e36 {
+text-align: left;
+font-size: 36px;
+}
+
+.c36 {
+text-align: center;
+font-size: 36px;
+}
+
+.e24 {
+text-align: justify;
+font-size: 22px;
+}
+
+.c24 {
+text-align: center;
+font-size: 22px;
+}
+
+.c18 {
+text-align: center;
+font-size: 18px;
+}
