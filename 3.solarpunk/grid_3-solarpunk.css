@@ -1,0 +1,61 @@
+body {
+    width: 1625px;
+    height: 100%;
+    margin: auto;
+}
+
+.teia {
+    width: 1567px;
+    height: 90%;
+    margin: auto;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr 1fr 2fr;
+}
+
+#box {
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%23333' stroke-width='2.5' stroke-dasharray='10%2c10' stroke-dashoffset='11' stroke-linecap='butt'/%3e%3c/svg%3e");
+    grid-row: 1/5;
+    grid-column: 1/2;
+    align-self: end;
+    position: relative;
+    left: 30px;
+}
+
+#caracteristicas {
+    position: relative;
+    right: 25px;
+    left: 2px;
+}
+
+.caracteristicas {
+    margin: 12px;
+}
+
+
+#a {
+    width: 160px;
+    grid-row: 1/2;
+    grid-column: 2/3;
+    align-self: start;
+    justify-self: center;
+}
+
+#b {
+    font-weight: 00;
+    grid-column: 3/5;
+    grid-row: 1/2;
+    align-self: center;
+}
+
+#programa {
+    position: relative;
+    float: right;
+    writing-mode: vertical-lr;
+    margin: 5px;
+}
+
+.programa {
+    margin: 14px
+}
