@@ -95,3 +95,11 @@ body {
     align-self: center;
     width: 270px;
 }
+
+svg {
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 50%;
+}
+

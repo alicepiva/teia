@@ -3,7 +3,7 @@ p, h1{
     font-style: normal;
 }
 
-h1 {
+.header {
 font-size:36px;
 writing-mode: sideways-lr;
 position: fixed;
@@ -20,6 +20,21 @@ text-align: center;
 font-size: 36px;
 }
 
+.c35 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.c32 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.c30 {
+    text-align: center;
+    font-size: 30px;
+}
+
 .c28 {
     text-align: center;
     font-size: 28px;
@@ -28,6 +43,11 @@ font-size: 36px;
 .e28 {
     text-align: justify;
     font-size: 28px;
+}
+
+.c26 {
+    text-align: center;
+    font-size: 26px;
 }
 
 .e24 {
