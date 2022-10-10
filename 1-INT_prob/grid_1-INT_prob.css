@@ -96,10 +96,22 @@ body {
     width: 270px;
 }
 
-svg {
+.setas {
     height: 100%;
     position: fixed;
     top: 0px;
     left: 50%;
 }
 
+.setas a:hover path {
+    stroke-width: 1;
+    stroke: black;
+    fill: #555;
+  }
+
+.linhas {
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}

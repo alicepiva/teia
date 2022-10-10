@@ -30,8 +30,35 @@ img {
 }
 
 #texto {
+    height: 90%;
     font-family: 'Markazi Text';
     font-style: regular;
     font-size: 18px;
     text-align: justify;
+}
+
+#seta {
+    line-height: 0;
+    font-size: 50px;
+    position: relative;
+    left: 90%
+}
+
+a:link {
+    text-decoration: none;
+    color:#979797
+  }
+  
+  a:visited {
+    text-decoration: none;
+    color:#979797
+  }
+  
+  a:active {
+    text-decoration: none;
+  }
+
+a:hover {
+    text-decoration: none;
+    color: #ff00b3;
 }

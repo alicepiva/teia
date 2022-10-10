@@ -1,0 +1,9 @@
+.st1{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:10,15;}
+.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+.st3{fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:0,15;}
+.st4{fill:none;stroke:#ffffff;stroke-width:15;stroke-opacity:'0.0';}
+
+svg a:hover line {
+    stroke-width: 3;
+    stroke: #c9c8c8;
+}
